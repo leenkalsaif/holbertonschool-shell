@@ -11,3 +11,4 @@
 10-back: Changes the working directory to the previous directory.
 11-lists: Lists all files, including hidden files, in the current directory, its parent, and /boot in long format.
 12-file_type: Prints the type of the file /tmp/iamafile.
+13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls.
