@@ -11,4 +11,5 @@
 10-love_exponent_breath: Prints the value of BREATH raised to the power of LOVE.
 11-binary_to_decimal: Converts a binary number stored in the BINARY environment variable to decimal.
 12-combinations: Prints all possible combinations of two lowercase letters, excluding oo.
+13-print_float: Prints the number stored in NUM with exactly two decimal places.
 
